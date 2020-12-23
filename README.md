@@ -1,4 +1,4 @@
-## Intro To Computing
+## Prime Test
 Project for CSC 103 - Intro To Computing with Professor William Skeith at the City College of New York.
 ## About The Project
 This project asks to implement a simple primality test. Recall that a number n > 1 is prime if the only divisors of n are 1 and itself (we don’t consider 1 to be prime).
